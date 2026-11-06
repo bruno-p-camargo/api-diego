@@ -14,26 +14,18 @@ O vídeo explicativo de como fazer algo semelhante está no [YouTube](https://ww
 
 Esse projeto está publicado no Heroku.
 
-## Para listar todas as postagens:
+## Para listar TODAS as postagens:
 
 ```
-https://api-fake-blog.herokuapp.com/postagens/
+https://api-fake-blog.onrender.com/postagens/
 ```
 
 ## Para listar UMA postagem:
 
 ```
-https://api-fake-blog.herokuapp.com/postagem/1
+https://api-fake-blog.onrender.com/postagem/1
 ```
 
-## Para listar categoria:
-
-```
-https://api-fake-blog.herokuapp.com/categoria/web
-```
-```
-https://api-fake-blog.herokuapp.com/categoria/games
-```
 
 ## Clonando o Repositório ##
 Com o Git e o Node.js instalado na sua maquina e a **URL** do projeto em mãos, cria em algum lugar do seu pc uma pasta para criarmos uma copia do repositório, dentro dela abra o **cmd** ou **powershell** e digite os comandos abaixo:
